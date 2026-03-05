@@ -1,1 +1,3 @@
-# notes-application--full-stack-with-authentication-crud-and-sharing-327754-327763
+# Project Repository
+
+This is the initial README file for the project.
